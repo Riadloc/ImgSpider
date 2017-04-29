@@ -1,0 +1,16 @@
+{
+  "name": "spider-test",
+  "version": "1.0.0",
+  "description": "小爬虫",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "young",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "cheerio": "^0.22.0",
+    "superagent": "^3.5.2"
+  }
+}
